@@ -1,0 +1,14 @@
+---
+:id: 160392692
+:submitters:
+- :name: Bradley Tian
+  :email: bradley_tian@berkeley.edu
+- :name: Austin Nicola Ardisaputra
+  :email: ardisaputra@berkeley.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-02-08 17:08:23.555960000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-02-08 09:08:23.555960000 Z
+:status: processed
+:score: 100.0
